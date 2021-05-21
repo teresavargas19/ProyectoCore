@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k6JmVh9wkmWKXfsk71DKWJeVTc2Lav+PPH8b5GuHkvMZItVphjvS2bhU1l3WYDBjVac4Udlk17gtpxWvKVjhGw==",
+  "dgSpecHash": "GmgmiGEWWCa92WRwatXKYyESPuTdzlcZQAy9xHNjyNuEz768T66fC08Bga1kJzJtBtihYV1nTeu4raAlB4an1g==",
   "success": true,
-  "projectFilePath": "C:\\ProyectoCore\\Aplicacion\\Aplicacion.csproj",
+  "projectFilePath": "C:\\Practica\\Aplicacion\\Aplicacion.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

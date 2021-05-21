@@ -1,0 +1,17 @@
+C:\Practica\Aplicacion\bin\Debug\net5.0\Aplicacion.deps.json
+C:\Practica\Aplicacion\bin\Debug\net5.0\Aplicacion.dll
+C:\Practica\Aplicacion\bin\Debug\net5.0\ref\Aplicacion.dll
+C:\Practica\Aplicacion\bin\Debug\net5.0\Aplicacion.pdb
+C:\Practica\Aplicacion\bin\Debug\net5.0\Dominio.dll
+C:\Practica\Aplicacion\bin\Debug\net5.0\Persistencia.dll
+C:\Practica\Aplicacion\bin\Debug\net5.0\Dominio.pdb
+C:\Practica\Aplicacion\bin\Debug\net5.0\Persistencia.pdb
+C:\Practica\Aplicacion\obj\Debug\net5.0\Aplicacion.csprojAssemblyReference.cache
+C:\Practica\Aplicacion\obj\Debug\net5.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practica\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Practica\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfo.cs
+C:\Practica\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Practica\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CopyComplete
+C:\Practica\Aplicacion\obj\Debug\net5.0\Aplicacion.dll
+C:\Practica\Aplicacion\obj\Debug\net5.0\ref\Aplicacion.dll
+C:\Practica\Aplicacion\obj\Debug\net5.0\Aplicacion.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NYsAAO6uvfjUFZYGI4aGboKUHDjnTpjSPaOwIY2V8Ig5OHr+B80iAZBVrdFKQReOYLVZLCMffdcQVvx0YwQC0g==",
+  "dgSpecHash": "KdRjuEkeYpInuDB2XkQ88tjpy+lEQ8XtxrEoR1kDLpdcEYdg1Fbulom+j8dDBoAjSW0vm+8y1QFXp8I3N1ZHlA==",
   "success": true,
-  "projectFilePath": "C:\\ProyectoCore\\Dominio\\Dominio.csproj",
+  "projectFilePath": "C:\\Practica\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

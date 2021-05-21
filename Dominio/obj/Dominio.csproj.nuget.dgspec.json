@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProyectoCore\\Dominio\\Dominio.csproj": {}
+    "C:\\Practica\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "C:\\ProyectoCore\\Dominio\\Dominio.csproj": {
+    "C:\\Practica\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProyectoCore\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Practica\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\ProyectoCore\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\teres\\.nuget\\packages\\",
-        "outputPath": "C:\\ProyectoCore\\Dominio\\obj\\",
+        "projectPath": "C:\\Practica\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\ramon\\.nuget\\packages\\",
+        "outputPath": "C:\\Practica\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\teres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ramon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

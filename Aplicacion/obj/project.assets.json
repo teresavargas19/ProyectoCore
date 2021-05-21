@@ -1,26 +1,61 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dominio.dll": {}
+        }
+      },
+      "Persistencia/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Persistencia.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Persistencia.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Dominio/1.0.0": {
+      "type": "project",
+      "path": "../Dominio/Dominio.csproj",
+      "msbuildProject": "../Dominio/Dominio.csproj"
+    },
+    "Persistencia/1.0.0": {
+      "type": "project",
+      "path": "../Persistencia/Persistencia.csproj",
+      "msbuildProject": "../Persistencia/Persistencia.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Dominio >= 1.0.0",
+      "Persistencia >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\teres\\.nuget\\packages\\": {}
+    "C:\\Users\\ramon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProyectoCore\\Aplicacion\\Aplicacion.csproj",
+      "projectUniqueName": "C:\\Practica\\Aplicacion\\Aplicacion.csproj",
       "projectName": "Aplicacion",
-      "projectPath": "C:\\ProyectoCore\\Aplicacion\\Aplicacion.csproj",
-      "packagesPath": "C:\\Users\\teres\\.nuget\\packages\\",
-      "outputPath": "C:\\ProyectoCore\\Aplicacion\\obj\\",
+      "projectPath": "C:\\Practica\\Aplicacion\\Aplicacion.csproj",
+      "packagesPath": "C:\\Users\\ramon\\.nuget\\packages\\",
+      "outputPath": "C:\\Practica\\Aplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\teres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ramon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +68,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Practica\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Practica\\Dominio\\Dominio.csproj"
+            },
+            "C:\\Practica\\Persistencia\\Persistencia.csproj": {
+              "projectPath": "C:\\Practica\\Persistencia\\Persistencia.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -60,7 +102,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\teres\\.nuget\\packages\\": {}
+    "C:\\Users\\ramon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProyectoCore\\Persistencia\\Persistencia.csproj",
+      "projectUniqueName": "C:\\Practica\\Persistencia\\Persistencia.csproj",
       "projectName": "Persistencia",
-      "projectPath": "C:\\ProyectoCore\\Persistencia\\Persistencia.csproj",
-      "packagesPath": "C:\\Users\\teres\\.nuget\\packages\\",
-      "outputPath": "C:\\ProyectoCore\\Persistencia\\obj\\",
+      "projectPath": "C:\\Practica\\Persistencia\\Persistencia.csproj",
+      "packagesPath": "C:\\Users\\ramon\\.nuget\\packages\\",
+      "outputPath": "C:\\Practica\\Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\teres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ramon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
